@@ -1,3 +1,16 @@
+## Project Image
+![image](https://user-images.githubusercontent.com/32007101/146392236-1b582a4a-e514-46c3-9b1d-06b929f028ba.png)
+
+## Project Link
+[Deploy Link project](https://world-ranks-ecru-seven.vercel.app)
+
+
+
+## Project instructions
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
